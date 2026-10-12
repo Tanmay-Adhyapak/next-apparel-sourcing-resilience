@@ -1,0 +1,12 @@
+"view_name","actual_row_count","expected_row_count","row_count_difference","validation_status"
+vw_partner_trade_monthly_review_basis,3600,3600,0,PASS
+vw_partner_trade_period_growth_reported,600,600,0,PASS
+vw_partner_trade_period_growth_review_sensitivity,520,520,0,PASS
+vw_partner_trade_period_reported,600,600,0,PASS
+vw_partner_trade_period_review_sensitivity,600,600,0,PASS
+vw_site_country_product_profile,46,46,0,PASS
+vw_site_supplier_overlap,1478,1478,0,PASS
+vw_supplier_channel_country_product_footprint,60,60,0,PASS
+vw_supplier_country_product_concentration,92,92,0,PASS
+vw_supplier_country_product_footprint,46,46,0,PASS
+vw_world_trade_period_reported,60,60,0,PASS

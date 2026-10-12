@@ -1,0 +1,8 @@
+"table_name","actual_row_count"
+wp003_raw_tier1_relationships,2202
+wp003_site_master,1478
+wp003_supplier_master,672
+wp003_supplier_site_bridge,2097
+wp003_supplier_resolution_map,672
+wp003_supplier_group_master,661
+wp003_supplier_entity_map,672

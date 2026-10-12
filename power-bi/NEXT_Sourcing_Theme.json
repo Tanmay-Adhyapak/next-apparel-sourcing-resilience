@@ -1,0 +1,26 @@
+{
+  "name": "NEXT Sourcing Resilience - Portfolio",
+  "dataColors": [
+    "#0F766E", "#17324D", "#B45309", "#475569",
+    "#5B9EA0", "#8FB3A8", "#94A3B8", "#9A3412"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#17324D",
+  "foregroundNeutralSecondary": "#475569",
+  "foregroundNeutralTertiary": "#94A3B8",
+  "backgroundLight": "#F3F6F8",
+  "backgroundNeutral": "#DCE3E8",
+  "tableAccent": "#0F766E",
+  "good": "#0F766E",
+  "neutral": "#B45309",
+  "bad": "#9A3412",
+  "maximum": "#17324D",
+  "minimum": "#F3F6F8",
+  "textClasses": {
+    "callout": { "fontSize": 28, "fontFace": "Segoe UI Semibold", "color": "#17324D" },
+    "title": { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#17324D" },
+    "largeTitle": { "fontSize": 16, "fontFace": "Segoe UI Semibold", "color": "#17324D" },
+    "header": { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#17324D" },
+    "label": { "fontSize": 11, "fontFace": "Segoe UI", "color": "#475569" }
+  }
+}

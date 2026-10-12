@@ -1,0 +1,47 @@
+"country_standardized","product_type_standardized","relationship_count","distinct_site_count","source_supplier_count","resolved_supplier_group_count"
+China,APPAREL,687,507,260,256
+Bangladesh,APPAREL,395,192,83,83
+India,APPAREL,289,212,127,124
+Turkey,APPAREL,120,70,55,55
+Sri Lanka,APPAREL,96,66,29,29
+Cambodia,APPAREL,84,62,29,29
+Pakistan,APPAREL,57,44,37,36
+Vietnam,APPAREL,41,34,25,25
+Morocco,APPAREL,30,17,16,16
+Great Britain,APPAREL,16,7,14,14
+Myanmar,APPAREL,13,13,3,3
+Egypt,APPAREL,8,6,4,4
+Italy,APPAREL,7,7,7,7
+Portugal,APPAREL,6,6,6,6
+Tunisia,APPAREL,6,5,5,5
+Brazil,APPAREL,2,2,2,2
+Spain,APPAREL,2,2,2,2
+Thailand,APPAREL,2,2,2,2
+Albania,APPAREL,1,1,1,1
+Indonesia,APPAREL,1,1,1,1
+Laos,APPAREL,1,1,1,1
+Lithuania,APPAREL,1,1,1,1
+Madagascar,APPAREL,1,1,1,1
+Mauritius,APPAREL,1,1,1,1
+Poland,APPAREL,1,1,1,1
+Romania,APPAREL,1,1,1,1
+United Arab Emirates,APPAREL,1,1,1,1
+China,HOME,160,149,95,93
+India,HOME,22,22,19,19
+Great Britain,HOME,14,14,14,14
+Turkey,HOME,6,6,5,5
+Vietnam,HOME,6,5,5,5
+Portugal,HOME,3,3,3,3
+Bangladesh,HOME,2,2,1,1
+Egypt,HOME,2,2,2,2
+Italy,HOME,2,2,2,2
+Cambodia,HOME,1,1,1,1
+Czech Republic,HOME,1,1,1,1
+Estonia,HOME,1,1,1,1
+Indonesia,HOME,1,1,1,1
+Lithuania,HOME,1,1,1,1
+Pakistan,HOME,1,1,1,1
+Poland,HOME,1,1,1,1
+Slovenia,HOME,1,1,1,1
+Taiwan,HOME,1,1,1,1
+Thailand,HOME,1,1,1,1

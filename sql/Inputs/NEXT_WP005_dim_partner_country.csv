@@ -1,0 +1,11 @@
+﻿partner_country_id,country_code_numeric,partner_country_iso2,partner_country_name,hmrc_flow_type_id,scope_status,geographical_basis
+52,052,TR,Turkey,3,Selected partner country,HMRC OTS country of dispatch / partner-country basis
+204,204,MA,Morocco,3,Selected partner country,HMRC OTS country of dispatch / partner-country basis
+662,662,PK,Pakistan,3,Selected partner country,HMRC OTS country of dispatch / partner-country basis
+664,664,IN,India,3,Selected partner country,HMRC OTS country of dispatch / partner-country basis
+666,666,BD,Bangladesh,3,Selected partner country,HMRC OTS country of dispatch / partner-country basis
+669,669,LK,Sri Lanka,3,Selected partner country,HMRC OTS country of dispatch / partner-country basis
+676,676,MM,Myanmar,3,Selected partner country,HMRC OTS country of dispatch / partner-country basis
+690,690,VN,Vietnam,3,Selected partner country,HMRC OTS country of dispatch / partner-country basis
+696,696,KH,Cambodia,3,Selected partner country,HMRC OTS country of dispatch / partner-country basis
+720,720,CN,China,3,Selected partner country,HMRC OTS country of dispatch / partner-country basis

@@ -1,0 +1,47 @@
+"country_standardized","product_type_standardized","site_count","employee_data_available_site_count","employee_data_missing_site_count","reported_total_employees","responsible_sourcing_review_site_count","physical_site_review_site_count","confirmed_next_owned_site_count"
+Albania,APPAREL,1,1,0,200,0,0,0
+Bangladesh,APPAREL,192,192,0,871714,0,0,0
+Brazil,APPAREL,2,2,0,216,0,0,0
+Cambodia,APPAREL,62,62,0,55280,0,2,0
+China,APPAREL,507,501,6,89589,9,1,0
+Egypt,APPAREL,6,6,0,10847,1,0,0
+Great Britain,APPAREL,7,7,0,601,0,0,0
+India,APPAREL,212,211,1,128955,1,6,0
+Indonesia,APPAREL,1,1,0,2284,0,0,0
+Italy,APPAREL,7,7,0,415,0,0,0
+Laos,APPAREL,1,1,0,37,0,0,0
+Lithuania,APPAREL,1,1,0,106,0,0,0
+Madagascar,APPAREL,1,1,0,3810,0,0,0
+Mauritius,APPAREL,1,1,0,696,0,0,0
+Morocco,APPAREL,17,17,0,3612,0,0,0
+Myanmar,APPAREL,13,13,0,10659,0,0,0
+Pakistan,APPAREL,44,44,0,126370,0,0,0
+Poland,APPAREL,1,1,0,450,0,0,0
+Portugal,APPAREL,6,5,1,328,1,0,0
+Romania,APPAREL,1,1,0,138,0,0,0
+Spain,APPAREL,2,2,0,29,0,0,0
+Sri Lanka,APPAREL,66,66,0,46922,0,0,3
+Thailand,APPAREL,2,2,0,2825,0,0,0
+Tunisia,APPAREL,5,5,0,3524,0,0,0
+Turkey,APPAREL,70,70,0,23150,0,0,0
+United Arab Emirates,APPAREL,1,1,0,509,0,0,0
+Vietnam,APPAREL,34,34,0,35281,0,0,0
+Bangladesh,HOME,2,2,0,5967,0,0,0
+Cambodia,HOME,1,1,0,614,0,0,0
+China,HOME,149,148,1,38226,2,1,0
+Czech Republic,HOME,1,1,0,109,0,0,0
+Egypt,HOME,2,2,0,5064,0,0,0
+Estonia,HOME,1,1,0,143,0,0,0
+Great Britain,HOME,14,13,1,1079,1,0,0
+India,HOME,22,22,0,17624,0,0,0
+Indonesia,HOME,1,1,0,463,0,0,0
+Italy,HOME,2,2,0,2331,0,0,0
+Lithuania,HOME,1,1,0,315,0,0,0
+Pakistan,HOME,1,1,0,3336,0,0,0
+Poland,HOME,1,1,0,1021,0,0,0
+Portugal,HOME,3,3,0,1160,0,0,0
+Slovenia,HOME,1,1,0,30,0,0,0
+Taiwan,HOME,1,0,1,NULL,1,0,0
+Thailand,HOME,1,1,0,205,0,0,0
+Turkey,HOME,6,6,0,4175,0,0,0
+Vietnam,HOME,5,5,0,2601,0,0,0

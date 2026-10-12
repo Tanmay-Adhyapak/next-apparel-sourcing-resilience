@@ -1,0 +1,202 @@
+// DAX expressions extracted from the saved Power BI model.
+
+// Home table: FactScenarioCategory
+Scenario Category Rows =
+COUNTROWS ( FactScenarioCategory )
+
+// Home table: FactScenarioCategory
+Category Cost Change % =
+IF (
+    [Scenario Category Rows] = 1,
+    SELECTEDVALUE ( FactScenarioCategory[Cost change] ),
+    BLANK ()
+)
+
+// Home table: FactScenarioCategory
+Category HHI Change =
+IF (
+    [Scenario Category Rows] = 1,
+    SELECTEDVALUE ( FactScenarioCategory[HHI change] ),
+    BLANK ()
+)
+
+// Home table: FactBasket
+Basket Cost Change Equal % =
+IF (
+    COUNTROWS ( FactBasket ) = 1,
+    SELECTEDVALUE ( FactBasket[Equal-weight cost change] ),
+    BLANK ()
+)
+
+// Home table: FactBasket
+Basket Cost Change Value % =
+IF (
+    COUNTROWS ( FactBasket ) = 1,
+    SELECTEDVALUE ( FactBasket[Value-weight cost change] ),
+    BLANK ()
+)
+
+// Home table: FactHeadroom
+Headroom GBP per kg =
+IF (
+    HASONEVALUE ( DimScenario[Case ID] )
+        && HASONEVALUE ( DimCategory[CN8] )
+        && COUNTROWS ( FactHeadroom ) = 1,
+    SELECTEDVALUE ( FactHeadroom[Headroom GBP/kg] ),
+    BLANK ()
+)
+
+// Home table: FactHeadroom
+Receiver Premium to Parity % =
+IF (
+    HASONEVALUE ( DimScenario[Case ID] )
+        && HASONEVALUE ( DimCategory[CN8] )
+        && COUNTROWS ( FactHeadroom ) = 1,
+    SELECTEDVALUE ( FactHeadroom[Max premium] ),
+    BLANK ()
+)
+
+// Home table: FactScenarioCategory
+Category Transfer pp =
+IF (
+    [Scenario Category Rows] = 1,
+    100 * SELECTEDVALUE ( FactScenarioCategory[Feasible shift] ),
+    BLANK ()
+)
+
+// Home table: FactBasket
+Basket Cases in View =
+COALESCE ( COUNTROWS ( FactBasket ), 0 )
+
+// Home table: FactBasket
+Basket Saving Cases Equal =
+COALESCE (
+    COUNTROWS (
+        FILTER (
+            FactBasket,
+            FactBasket[Equal-weight cost change] < 0
+        )
+    ),
+    0
+)
+
+// Home table: FactBasket
+Basket Saving Cases Value =
+COALESCE (
+    COUNTROWS (
+        FILTER (
+            FactBasket,
+            FactBasket[Value-weight cost change] < 0
+        )
+    ),
+    0
+)
+
+// Home table: FactBasket
+Basket Sign Disagreement Cases =
+COALESCE (
+    COUNTROWS (
+        FILTER (
+            FactBasket,
+            FactBasket[Equal-weight cost change]
+                * FactBasket[Value-weight cost change] < 0
+        )
+    ),
+    0
+)
+
+// Home table: DimScenario
+Scenario Selection Label =
+IF (
+    HASONEVALUE ( DimScenario[Case ID] ),
+    "Case " & SELECTEDVALUE ( DimScenario[Case ID] )
+        & " | " & SELECTEDVALUE ( DimScenario[Case] )
+        & " | " & SELECTEDVALUE ( DimScenario[Price period] )
+        & " | " & SELECTEDVALUE ( DimScenario[Data basis] ),
+    COALESCE ( COUNTROWS ( DimScenario ), 0 )
+        & " scenarios in view"
+)
+
+// Home table: DimCategory
+Category Selection Label =
+IF (
+    HASONEVALUE ( DimCategory[CN8] ),
+    SELECTEDVALUE ( DimCategory[Category] )
+        & " | " & SELECTEDVALUE ( DimCategory[CN8] ),
+    COALESCE ( COUNTROWS ( DimCategory ), 0 )
+        & " categories in view"
+)
+
+// Home table: FactSiteFootprint
+Disclosed Sites =
+COALESCE (
+    DISTINCTCOUNT ( FactSiteFootprint[site_id] ),
+    0
+)
+
+// Home table: FactSiteFootprint
+Footprint Countries =
+COALESCE (
+    DISTINCTCOUNT ( FactSiteFootprint[country_standardized] ),
+    0
+)
+
+// Home table: FactSiteFootprint
+Sites Pending Annotation Review =
+COALESCE (
+    COUNTROWS (
+        FILTER (
+            FactSiteFootprint,
+            FactSiteFootprint[responsible_sourcing_review_flag] = 1
+        )
+    ),
+    0
+)
+
+// Home table: FactTradeBenchmark
+Reported Unit Value GBP per kg =
+IF (
+    HASONEVALUE ( DimPeriod[Period] )
+        && HASONEVALUE ( DimCategory[CN8] ),
+    DIVIDE (
+        SUM ( FactTradeBenchmark[Reported value £] ),
+        SUM ( FactTradeBenchmark[Reported mass kg] )
+    ),
+    BLANK ()
+)
+
+// Home table: FactTradeBenchmark
+Common-Month Unit Value GBP per kg =
+IF (
+    HASONEVALUE ( DimPeriod[Period] )
+        && HASONEVALUE ( DimCategory[CN8] ),
+    DIVIDE (
+        SUM ( FactTradeBenchmark[Common value £] ),
+        SUM ( FactTradeBenchmark[Common mass kg] )
+    ),
+    BLANK ()
+)
+
+// Home table: FactHeadroom
+Knitwear Headroom Presence =
+CALCULATE (
+    SELECTEDVALUE ( FactHeadroom[Headroom GBP/kg] ),
+    FactHeadroom[CN8] = "61103099",
+    FactHeadroom[Case ID] IN { 8, 25 }
+)
+
+// Home table: FactHeadroom
+Knitwear Headroom Turkey75 =
+CALCULATE (
+    SELECTEDVALUE ( FactHeadroom[Headroom GBP/kg] ),
+    FactHeadroom[CN8] = "61103099",
+    FactHeadroom[Case ID] IN { 11, 26 }
+)
+
+// Home table: FactHeadroom
+Knitwear Headroom Default =
+CALCULATE (
+    SELECTEDVALUE ( FactHeadroom[Headroom GBP/kg] ),
+    FactHeadroom[CN8] = "61103099",
+    FactHeadroom[Case ID] IN { 1, 16 }
+)

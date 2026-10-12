@@ -1,0 +1,8 @@
+"table_name","expected_rows","staging_rows","core_rows","row_difference","check_status"
+raw_tier1_relationships,2202,2202,2202,0,PASS
+site_master,1478,1478,1478,0,PASS
+supplier_entity_map,672,672,672,0,PASS
+supplier_group_master,661,661,661,0,PASS
+supplier_master,672,672,672,0,PASS
+supplier_resolution_map,672,672,672,0,PASS
+supplier_site_bridge,2097,2097,2097,0,PASS

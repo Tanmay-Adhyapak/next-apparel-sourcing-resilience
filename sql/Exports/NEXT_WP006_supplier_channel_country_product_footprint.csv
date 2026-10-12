@@ -1,0 +1,61 @@
+"country_standardized","product_type_standardized","declared_channel_type","relationship_count","distinct_site_count","source_supplier_count","resolved_supplier_group_count","country_product_relationship_count","country_product_site_count","channel_relationship_share","channel_site_reach_share"
+Albania,APPAREL,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Bangladesh,APPAREL,External declared supplier/channel - role unclassified,303,149,79,79,395,192,0.76708860759493670886,0.77604166666666666667
+Bangladesh,APPAREL,NEXT sourcing label/channel,92,66,4,4,395,192,0.23291139240506329114,0.34375000000000000000
+Brazil,APPAREL,External declared supplier/channel - role unclassified,2,2,2,2,2,2,1.00000000000000000000,1.00000000000000000000
+Cambodia,APPAREL,External declared supplier/channel - role unclassified,43,36,24,24,84,62,0.51190476190476190476,0.58064516129032258065
+Cambodia,APPAREL,NEXT sourcing label/channel,41,32,5,5,84,62,0.48809523809523809524,0.51612903225806451613
+China,APPAREL,External declared supplier/channel - role unclassified,551,418,258,254,687,507,0.80203784570596797671,0.82445759368836291913
+China,APPAREL,NEXT sourcing label/channel,136,131,2,2,687,507,0.19796215429403202329,0.25838264299802761341
+Egypt,APPAREL,External declared supplier/channel - role unclassified,3,2,3,3,8,6,0.37500000000000000000,0.33333333333333333333
+Egypt,APPAREL,NEXT sourcing label/channel,5,5,1,1,8,6,0.62500000000000000000,0.83333333333333333333
+Great Britain,APPAREL,External declared supplier/channel - role unclassified,16,7,14,14,16,7,1.00000000000000000000,1.00000000000000000000
+India,APPAREL,External declared supplier/channel - role unclassified,230,178,124,121,289,212,0.79584775086505190311,0.83962264150943396226
+India,APPAREL,NEXT sourcing label/channel,59,57,3,3,289,212,0.20415224913494809689,0.26886792452830188679
+Indonesia,APPAREL,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Italy,APPAREL,External declared supplier/channel - role unclassified,7,7,7,7,7,7,1.00000000000000000000,1.00000000000000000000
+Laos,APPAREL,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Lithuania,APPAREL,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Madagascar,APPAREL,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Mauritius,APPAREL,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Morocco,APPAREL,External declared supplier/channel - role unclassified,28,16,15,15,30,17,0.93333333333333333333,0.94117647058823529412
+Morocco,APPAREL,NEXT sourcing label/channel,2,2,1,1,30,17,0.06666666666666666667,0.11764705882352941176
+Myanmar,APPAREL,External declared supplier/channel - role unclassified,4,4,2,2,13,13,0.30769230769230769231,0.30769230769230769231
+Myanmar,APPAREL,NEXT sourcing label/channel,9,9,1,1,13,13,0.69230769230769230769,0.69230769230769230769
+Pakistan,APPAREL,External declared supplier/channel - role unclassified,40,29,35,34,57,44,0.70175438596491228070,0.65909090909090909091
+Pakistan,APPAREL,NEXT sourcing label/channel,17,16,2,2,57,44,0.29824561403508771930,0.36363636363636363636
+Poland,APPAREL,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Portugal,APPAREL,External declared supplier/channel - role unclassified,6,6,6,6,6,6,1.00000000000000000000,1.00000000000000000000
+Romania,APPAREL,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Spain,APPAREL,External declared supplier/channel - role unclassified,2,2,2,2,2,2,1.00000000000000000000,1.00000000000000000000
+Sri Lanka,APPAREL,External declared supplier/channel - role unclassified,56,40,28,28,96,66,0.58333333333333333333,0.60606060606060606061
+Sri Lanka,APPAREL,NEXT sourcing label/channel,40,40,1,1,96,66,0.41666666666666666667,0.60606060606060606061
+Thailand,APPAREL,External declared supplier/channel - role unclassified,2,2,2,2,2,2,1.00000000000000000000,1.00000000000000000000
+Tunisia,APPAREL,External declared supplier/channel - role unclassified,6,5,5,5,6,5,1.00000000000000000000,1.00000000000000000000
+Turkey,APPAREL,External declared supplier/channel - role unclassified,96,61,51,51,120,70,0.80000000000000000000,0.87142857142857142857
+Turkey,APPAREL,NEXT sourcing label/channel,24,14,4,4,120,70,0.20000000000000000000,0.20000000000000000000
+United Arab Emirates,APPAREL,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Vietnam,APPAREL,External declared supplier/channel - role unclassified,35,32,22,22,41,34,0.85365853658536585366,0.94117647058823529412
+Vietnam,APPAREL,NEXT sourcing label/channel,6,4,3,3,41,34,0.14634146341463414634,0.11764705882352941176
+Bangladesh,HOME,NEXT sourcing label/channel,2,2,1,1,2,2,1.00000000000000000000,1.00000000000000000000
+Cambodia,HOME,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+China,HOME,External declared supplier/channel - role unclassified,157,146,94,92,160,149,0.98125000000000000000,0.97986577181208053691
+China,HOME,NEXT sourcing label/channel,3,3,1,1,160,149,0.01875000000000000000,0.02013422818791946309
+Czech Republic,HOME,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Egypt,HOME,External declared supplier/channel - role unclassified,1,1,1,1,2,2,0.50000000000000000000,0.50000000000000000000
+Egypt,HOME,NEXT sourcing label/channel,1,1,1,1,2,2,0.50000000000000000000,0.50000000000000000000
+Estonia,HOME,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Great Britain,HOME,External declared supplier/channel - role unclassified,14,14,14,14,14,14,1.00000000000000000000,1.00000000000000000000
+India,HOME,External declared supplier/channel - role unclassified,21,21,18,18,22,22,0.95454545454545454545,0.95454545454545454545
+India,HOME,NEXT sourcing label/channel,1,1,1,1,22,22,0.04545454545454545455,0.04545454545454545455
+Indonesia,HOME,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Italy,HOME,External declared supplier/channel - role unclassified,2,2,2,2,2,2,1.00000000000000000000,1.00000000000000000000
+Lithuania,HOME,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Pakistan,HOME,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Poland,HOME,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Portugal,HOME,External declared supplier/channel - role unclassified,3,3,3,3,3,3,1.00000000000000000000,1.00000000000000000000
+Slovenia,HOME,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Taiwan,HOME,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Thailand,HOME,External declared supplier/channel - role unclassified,1,1,1,1,1,1,1.00000000000000000000,1.00000000000000000000
+Turkey,HOME,External declared supplier/channel - role unclassified,6,6,5,5,6,6,1.00000000000000000000,1.00000000000000000000
+Vietnam,HOME,External declared supplier/channel - role unclassified,6,5,5,5,6,5,1.00000000000000000000,1.00000000000000000000

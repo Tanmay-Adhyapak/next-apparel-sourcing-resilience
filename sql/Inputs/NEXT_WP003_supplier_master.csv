@@ -1,0 +1,673 @@
+﻿supplier_id,supplier_name_canonical,supplier_name_variants,raw_name_variant_count,distinct_site_count,distinct_country_count,relationship_count,product_types,source_id,snapshot_month
+SUP0001,Aak Ltd,Aak Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0002,Ac Brothers,Ac Brothers,1,2,1,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0003,Active Clothing Co Ltd,Active Clothing Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0004,Affiliated Apparel Ltd,Affiliated Apparel Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0005,Afflatus International,Afflatus International,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0006,Afflatus International Pvt Ltd,Afflatus International Pvt Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0007,Akh Eco Apparels Ltd,Akh Eco Apparels Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0008,Ali Murtaza Associates (Pvt),Ali Murtaza Associates (Pvt),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0009,Alina Private Ltd,Alina Private Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0010,Alpha Europe Novel Ventures,Alpha Europe Novel Ventures,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0011,Amazing Export Corporation,Amazing Export Corporation,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0012,Ambadi Enterprises Ltd,Ambadi Enterprises Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0013,Amelia Knight Ltd,Amelia Knight Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0014,Anhui Mei & Bang International,Anhui Mei & Bang International,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0015,Ankhua Exports Pvt Ltd,Ankhua Exports Pvt Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0016,Antron Leathers Ltd,Antron Leathers Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0017,April Sourcing Ltd,April Sourcing Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0018,Aps Giyim Sanayi Ve Ticaret,Aps Giyim Sanayi Ve Ticaret,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0019,Aptech Caswier Ltd,Aptech Caswier Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0020,Arfai - Industria De Faiancas,Arfai - Industria De Faiancas,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0021,Aristocrate Distributors Ltd,Aristocrate Distributors Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0022,Arnold Wills & Co Ltd,Arnold Wills & Co Ltd,1,8,4,8,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0023,Arnold Wills And Company Ltd,Arnold Wills And Company Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0024,Art India,Art India,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0025,Arti Jain T/A Rauny Exports,Arti Jain T/A Rauny Exports,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0026,Artistic Fabric Mills (Pvt),Artistic Fabric Mills (Pvt),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0027,Asian Handicrafts Pvt Ltd,Asian Handicrafts Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0028,Asiatic Carpets Ltd,Asiatic Carpets Ltd,1,4,2,4,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0029,Asmara International Ltd,Asmara International Ltd,1,4,2,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0030,Aspire Furniture Ltd,Aspire Furniture Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0031,Aster Textile London Ltd,Aster Textile London Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0032,Atlas Export Enterprises,Atlas Export Enterprises,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0033,Att Tekstil Sanayi Ve Ticaret,Att Tekstil Sanayi Ve Ticaret,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0034,Attire Clothing Ltd,Attire Clothing Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0035,Aussco Hong Kong Ltd,Aussco Hong Kong Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0036,Awana Ltd,Awana Ltd,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0037,Aydin Tekstil Ticaret Ve Pazar,Aydin Tekstil Ticaret Ve Pazar,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0038,Aykroyd & Sons Ltd,Aykroyd & Sons Ltd,1,25,5,25,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0039,Azgard Nine Ltd,Azgard Nine Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0040,Azura Home Ltd,Azura Home Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0041,B K Fashions,B K Fashions,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0042,Bab Trends S L (Pr),Bab Trends S L (Pr),1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0043,Barren Rock International Ltd,Barren Rock International Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0044,Barry M Cosmetics Ltd,Barry M Cosmetics Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0045,Basant,Basant,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0046,Bayswood Ltd,Bayswood Ltd,1,7,1,7,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0047,Bazaar Konnections,Bazaar Konnections,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0048,Bd Designs Private Ltd,Bd Designs Private Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0049,Beegreen Fashion Co Ltd,Beegreen Fashion Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0050,Beijing Floormax Ltd,Beijing Floormax Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0051,Beijing Housewares Ind Ltd,Beijing Housewares Ind Ltd,1,3,1,3,HOME,NXT_SUP_T1_2026,2026-02
+SUP0052,Beijing Housewares Industries,Beijing Housewares Industries,1,5,1,5,HOME,NXT_SUP_T1_2026,2026-02
+SUP0053,Benson Shoes Sl Mla,Benson Shoes Sl Mla,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0054,Betterone Garments Pte Ltd,Betterone Garments Pte Ltd,1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0055,Bhm Knitwear Ltd,Bhm Knitwear Ltd,1,4,3,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0056,Biliks London Ltd,Biliks London Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0057,Bioworld International Ltd,Bioworld International Ltd,1,25,7,25,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0058,Blue Leg Conection Sl,Blue Leg Conection Sl,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0059,Blues Clothing Ltd,Blues Clothing Ltd,1,3,3,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0060,Blues Group Ltd,Blues Group Ltd,1,14,5,14,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0061,Bm Fashions (Uk) Ltd,Bm Fashions (Uk) Ltd,1,60,8,60,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0062,Boardman Bros Ltd,Boardman Bros Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0063,Box Tray & Giraffe Inc,Box Tray & Giraffe Inc,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0064,Bradshaw International Holding,Bradshaw International Holding,1,12,2,12,HOME,NXT_SUP_T1_2026,2026-02
+SUP0065,Brag London Ltd,Brag London Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0066,Brand Alliance Ltd,Brand Alliance Ltd,1,63,8,63,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0067,Brand International Group Ltd,Brand International Group Ltd,1,17,2,17,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0068,Branddesign Sa,Branddesign Sa,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0069,Bravado International Group,Bravado International Group,1,12,6,12,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0070,Bravo Tekstil Ithalat Ihracat,Bravo Tekstil Ithalat Ihracat,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0071,Break The Ice Ltd,Break The Ice Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0072,Bright Concept Pte Ltd,Bright Concept Pte Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0073,Brindleclass Ltd T/A Cambra St,Brindleclass Ltd T/A Cambra St,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0074,Bunzl Uk Ltd T/A Keenpac,Bunzl Uk Ltd T/A Keenpac,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0075,Burt Brothers Ltd,Burt Brothers Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0076,C & R Textiles Private Ltd,C & R Textiles Private Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0077,Caldeira Ltd,Caldeira Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0078,Calzificio Eire Srl,Calzificio Eire Srl,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0079,Calzificio Fap S P A,Calzificio Fap S P A,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0080,Calzificio Ilary Srl,Calzificio Ilary Srl,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0081,Capsbury Ltd,Capsbury Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0082,Carmel Clothing Ltd,Carmel Clothing Ltd,1,9,3,9,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0083,Carmel Fast Track Ltd,Carmel Fast Track Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0084,Carreman Silvercrest Clothing,Carreman Silvercrest Clothing,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0085,Castlecrafts Ltd T/A Dewhirst,Castlecrafts Ltd T/A Dewhirst,1,7,3,7,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0086,Cathay Fashion Inc,Cathay Fashion Inc,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0087,Cd75781 Ltd T/A Cotton Division,Cd75781 Ltd T/A Cotton Division,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0088,Cemko Dis Ticaret Ltd (Ence,Cemko Dis Ticaret Ltd (Ence,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0089,Cemko Dis Ticaret Ltd Sirketi,Cemko Dis Ticaret Ltd Sirketi,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0090,Centex Fabrics Export Unit,Centex Fabrics Export Unit,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0091,Centro Sourcing Uk Ltd,Centro Sourcing Uk Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0092,Champion Industrial (YY) Ltd,Champion Industrial (YY) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0093,Champo Carpets,Champo Carpets,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0094,Chandani Design Pvt Ltd,Chandani Design Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0095,Changzhou Laosan Group,Changzhou Laosan Group,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0096,Chaozhou Sanhua Ceramics Ind,Chaozhou Sanhua Ceramics Ind,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0097,Chaozhou Weiye-China Industria,Chaozhou Weiye-China Industria,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0098,Character World Ltd,Character World Ltd,1,4,3,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0099,Charming Designs Ltd,Charming Designs Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0100,Cherry Body Fashions,Cherry Body Fashions,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0101,Chungwoo Corporation,Chungwoo Corporation,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0102,Cityfax Ltd,Cityfax Ltd,1,7,2,7,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0103,Classic Footwear International,Classic Footwear International,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0104,Clothing Management Tech Ltd,Clothing Management Tech Ltd,1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0105,Clover Collections,Clover Collections,1,21,1,21,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0106,Club & Co Srl,Club & Co Srl,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0107,Comfy Quilts Ltd,Comfy Quilts Ltd,1,2,2,2,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0108,Compagnie Mauricienne De Text,Compagnie Mauricienne De Text,1,3,3,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0109,Comtrading Apparel Dmcc,Comtrading Apparel Dmcc,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0110,Concept Asia Resources Ltd,Concept Asia Resources Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0111,Cooneen By Design Ltd,Cooneen By Design Ltd,1,8,2,8,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0112,Cortina China Ltd,Cortina China Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0113,Cotton Legend Ltd,Cotton Legend Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0114,Craigwood Garment Factory Ltd,Craigwood Garment Factory Ltd,1,5,3,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0115,Creative Clouds Ltd,Creative Clouds Ltd,1,5,1,5,HOME,NXT_SUP_T1_2026,2026-02
+SUP0116,Creative Cosmetics Ltd,Creative Cosmetics Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0117,Crest Design Private Ltd,Crest Design Private Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0118,Crownway Industrial International,Crownway Industrial International,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0119,Cupcake Clothing Ltd,Cupcake Clothing Ltd,1,7,2,7,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0120,Cuwa Srl,Cuwa Srl,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0121,D & D Dozza Srl,D & D Dozza Srl,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0122,D Gurteen And Sons Ltd,D Gurteen And Sons Ltd,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0123,Daewoong Ind Trading Co Ltd,Daewoong Ind Trading Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0124,Dck Concessions Ltd,Dck Concessions Ltd,1,7,1,7,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0125,Dcm Clothing Ltd,Dcm Clothing Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0126,Ddecor Exports Pvt Ltd,Ddecor Exports Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0127,Deniallondon Ltd T/A Bluenile,Deniallondon Ltd T/A Bluenile,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0128,Denim House,Denim House,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0129,Denim Solutions Ltd,Denim Solutions Ltd,1,5,1,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0130,Design Arc Asia Ltd,Design Arc Asia Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0131,Design Industry Ltd,Design Industry Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0132,Designtex (Smc Private) Ltd,Designtex (Smc Private) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0133,Destinos - Arte Ceramica S A,Destinos - Arte Ceramica S A,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0134,Difuzed Bv,Difuzed Bv,1,11,5,11,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0135,Dileep Crafts Private Ltd,Dileep Crafts Private Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0136,Divine Enterprises Fz,Divine Enterprises Fz,1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0137,Dongguan Enow Handbags Co Ltd,Dongguan Enow Handbags Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0138,Dongguan Farwin Brand Manag,Dongguan Farwin Brand Manag,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0139,Dongguan Jianyi Knitting Co,Dongguan Jianyi Knitting Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0140,Dongguan Xinxiang Metal Produc,Dongguan Xinxiang Metal Produc,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0141,Dongyi Sourcing Hk Ltd,Dongyi Sourcing Hk Ltd,1,23,3,23,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0142,Double Body Biotech Ltd,Double Body Biotech Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0143,Dp (Osr) Ltd,Dp (Osr) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0144,Dragon Eyes Hong Kong Ltd,Dragon Eyes Hong Kong Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0145,Dreams Industrial Limited,Dreams Industrial Limited,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0146,Dreamtex Ltd,Dreamtex Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0147,Drew Brady & Co Ltd T/A David,Drew Brady & Co Ltd T/A David,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0148,E & E Import & Export,E & E Import & Export,1,3,2,3,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0149,E-Link Technologies Ltd,E-Link Technologies Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0150,E-Teen Company Ltd,E-Teen Company Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0151,Echo Sourcing Ltd,Echo Sourcing Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0152,Elegant Overseas,Elegant Overseas,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0153,Emar Design,Emar Design,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0154,Emsons Company Ltd,Emsons Company Ltd,1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0155,Ereks Konfeksiyon Sanvetic As,Ereks Konfeksiyon Sanvetic As,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0156,Erte Kozmetik San Tic As,Erte Kozmetik San Tic As,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0157,Erve Ltd,Erve Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0158,Eternal Best Industrial Ltd,Eternal Best Industrial Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0159,Euro Prosem Sl,Euro Prosem Sl,1,5,3,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0160,Eurofar International B V,Eurofar International B V,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0161,Euroline Sp Zoo,Euroline Sp Zoo,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0162,Ever-Glory Supply Chain Service,Ever-Glory Supply Chain Service,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0163,Everco International Ltd,Everco International Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0164,Experience Clothing Company Ltd,Experience Clothing Company Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0165,Fabris Lane Ltd,Fabris Lane Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0166,Fatih Tekstil Sanvedistic Ltd,Fatih Tekstil Sanvedistic Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0167,Faze Three Ltd,Faze Three Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0168,Felpinter Ind Tex Sa Li (Made),Felpinter Ind Tex Sa Li (Made),1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0169,Felpinter Industrias Texteis,Felpinter Industrias Texteis,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0170,Feng Hai Technology Co Ltd,Feng Hai Technology Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0171,Fikkerts Ltd,Fikkerts Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0172,First Steps Babywear Private Ltd,First Steps Babywear Private Ltd,1,6,2,6,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0173,Florence Shoe Company Pvt Ltd,Florence Shoe Company Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0174,Formatt Ltd T/A Formark Uk,Formatt Ltd T/A Formark Uk,1,3,3,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0175,Foshan Shunde Homeart Electric,Foshan Shunde Homeart Electric,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0176,Foshan Yuyang Imp And Exp Co,Foshan Yuyang Imp And Exp Co,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0177,Four Greens Incorporation,Four Greens Incorporation,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0178,Fqm Entertainment Ltd T/A Post,Fqm Entertainment Ltd T/A Post,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0179,Friul Intagali Industries Spa,Friul Intagali Industries Spa,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0180,Frog Co Ltd,Frog Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0181,Fulei Knittinbg (Hk) Ltd,Fulei Knittinbg (Hk) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0182,Fuzhou Bicano Trading Co Ltd,Fuzhou Bicano Trading Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0183,Fuzhou Shines Footwear Co Ltd,Fuzhou Shines Footwear Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0184,Fuzhou Weilier Shoes Co Ltd,Fuzhou Weilier Shoes Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0185,Fuzhou Zhenghelifeng Trading Co,Fuzhou Zhenghelifeng Trading Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0186,Fwg Sales Ltd,Fwg Sales Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0187,Gallery Direct Ltd,Gallery Direct Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0188,Garment Services Meegoda (Pvt),Garment Services Meegoda (Pvt),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0189,Geniemode Global Inc,Geniemode Global Inc,1,5,2,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0190,Ges International Ltd,Ges International Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0191,Gizeta Calze Srl,Gizeta Calze Srl,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0192,Global Cosmetics (Hk) Company,Global Cosmetics (Hk) Company,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0193,Global Licensing Ltd,Global Licensing Ltd,1,31,7,31,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0194,Global Shirt Box Ltd,Global Shirt Box Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0195,Golden Empire Ind (Hk) Ltd,Golden Empire Ind (Hk) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0196,Goldline (Uk) Ltd,Goldline (Uk) Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0197,Good Fount International Corp,Good Fount International Corp,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0198,Goodway Textile Ltd,Goodway Textile Ltd,1,2,1,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0199,Grand Royal Enterprises Co Ltd,Grand Royal Enterprises Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0200,Grand Step (Hk) Ltd,Grand Step (Hk) Ltd | Grand Step Hk Ltd,2,5,1,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0201,Grant Barnett & Co Ltd,Grant Barnett & Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0202,Grant International (Uk) Ltd,Grant International (Uk) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0203,Greenfields Christmas Tree Man,Greenfields Christmas Tree Man,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0204,Guangdong Galanz Appliances,Guangdong Galanz Appliances,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0205,Guangdong Light Luggage Bags,Guangdong Light Luggage Bags,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0206,Guangdong Totye Ceram Ind,Guangdong Totye Ceram Ind,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0207,Guangdong Wireking Housewares,Guangdong Wireking Housewares,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0208,Guangzhou Ruili Import And Export,Guangzhou Ruili Import And Export,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0209,H&H Textile & Garments Co Ltd,H&H Textile & Garments Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0210,H&R Clothing Ltd,H&R Clothing Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0211,Haddow Group Ltd,Haddow Group Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0212,Haian Lianfa Garments Co Ltd,Haian Lianfa Garments Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0213,Hainan Xinrunhai Industry Co,Hainan Xinrunhai Industry Co,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0214,Hangzhou Beiming Textile Co,Hangzhou Beiming Textile Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0215,Hangzhou Fuyang Yiyuan Industry,Hangzhou Fuyang Yiyuan Industry,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0216,Hangzhou Greenmore Co Ltd,Hangzhou Greenmore Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0217,Hangzhou Heqi Import And Export,Hangzhou Heqi Import And Export,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0218,Hangzhou Hitex International,Hangzhou Hitex International,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0219,Hangzhou Hs Fashion Co (Se),Hangzhou Hs Fashion Co (Se),1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0220,Hangzhou Hs Fashion Corp Ltd,Hangzhou Hs Fashion Corp Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0221,Hangzhou Ht Accessory Imp Exp,Hangzhou Ht Accessory Imp Exp,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0222,Hangzhou Huamian Accessories Co,Hangzhou Huamian Accessories Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0223,Hangzhou Jason Trading Co Ltd,Hangzhou Jason Trading Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0224,Hangzhou John Cotton Trade Co,Hangzhou John Cotton Trade Co,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0225,Hangzhou Meiyuan Textiles Co Ltd,Hangzhou Meiyuan Textiles Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0226,Hangzhou Top-Fine Technology Co,Hangzhou Top-Fine Technology Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0227,Hantchy International Ltd,Hantchy International Ltd,1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0228,Hedian Partners Ltd (Lp),Hedian Partners Ltd (Lp),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0229,Henglin Home Furnishings Co,Henglin Home Furnishings Co,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0230,Hershoes (Hk) Ltd,Hershoes (Hk) Ltd,1,6,2,6,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0231,Heyong Trading (Wenzhou) Co,Heyong Trading (Wenzhou) Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0232,Heze Huasheng Wooden Co Ltd,Heze Huasheng Wooden Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0233,Hh Ventures Private Ltd,Hh Ventures Private Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0234,Hma Accessories Ltd,Hma Accessories Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0235,Home Joy Textile Co Ltd,Home Joy Textile Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0236,Homex Soft Furnishings,Homex Soft Furnishings,1,2,1,2,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0237,Hongfu Crafts Co Ltd,Hongfu Crafts Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0238,Hongkong Success Textiles And,Hongkong Success Textiles And,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0239,Hongkong Xinpei Int (Ense),Hongkong Xinpei Int (Ense),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0240,Hongmao Glass Co Ltd,Hongmao Glass Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0241,Hop Lun (Hong Kong) Ltd,Hop Lun (Hong Kong) Ltd,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0242,Hosiery Yard Corporation,Hosiery Yard Corporation,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0243,Ht Fashion International (Hk),Ht Fashion International (Hk),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0244,Huahong Art Home Shares Co Ltd,Huahong Art Home Shares Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0245,Huangyan Raysun Arts & Crafts,Huangyan Raysun Arts & Crafts,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0246,Huatian (Hk) Inter Ltd,Huatian (Hk) Inter Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0247,Hugotex Ltd,Hugotex Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0248,Hunan Hualian China Industry,Hunan Hualian China Industry,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0249,Hunan Xianfeng Ceramic Co Ltd,Hunan Xianfeng Ceramic Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0250,Hung Fat Decorations Ltd,Hung Fat Decorations Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0251,Ideteks Giyim Sanayi Anonim Si,Ideteks Giyim Sanayi Anonim Si,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0252,Ila Home Fashions,Ila Home Fashions,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0253,Impell Ltd Wsl,Impell Ltd Wsl,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0254,Importas Ltd,Importas Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0255,Indo Count Industries Ltd,Indo Count Industries Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0256,Indochine International Fze,Indochine International Fze,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0257,Indochine International Uk Ltd,Indochine International Uk Ltd,1,6,4,6,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0258,Inno Home Decoration Co Ltd,Inno Home Decoration Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0259,Inntitle Ltd T/A Skyland,Inntitle Ltd T/A Skyland,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0260,Inspirations Overseas,Inspirations Overseas,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0261,Inspire Intimates Ltd,Inspire Intimates Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0262,Intco International (Hk) Co,Intco International (Hk) Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0263,Inter-City Watch Company Ltd,Inter-City Watch Company Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0264,Interkommerz Handels Ag,Interkommerz Handels Ag,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0265,Ion Tekstil Dis Ticaret Ltd St,Ion Tekstil Dis Ticaret Ltd St,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0266,Ir Exports Private Ltd,Ir Exports Private Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0267,Irus International Private Ltd,Irus International Private Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0268,Island Clothing Limited,Island Clothing Limited,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0269,J And J Exports India (Se),J And J Exports India (Se),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0270,J&P Co Ltd,J&P Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0271,Jaidka Woollen & Hosiery Mills,Jaidka Woollen & Hosiery Mills,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0272,Jainsons International Inc,Jainsons International Inc,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0273,Jaipur Crafts Private Ltd,Jaipur Crafts Private Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0274,James & Co Fragrance Ltd,James & Co Fragrance Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0275,Jandu Developments Ltd T/A Js,Jandu Developments Ltd T/A Js,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0276,Javi Home Pvt Ltd,Javi Home Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0277,Jay Jay Mills (Bangladesh),Jay Jay Mills (Bangladesh),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0278,Jc Fashion Group Ltd,Jc Fashion Group Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0279,Jetshoes Co Ltd,Jetshoes Co Ltd,1,4,2,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0280,Jia Wei Lifestyle Inc,Jia Wei Lifestyle Inc,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0281,Jiangmen Lihua Import & Export,Jiangmen Lihua Import & Export,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0282,Jiangsu Golden Empire Int Ltd,Jiangsu Golden Empire Int Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0283,Jiangsu Guotai Huasheng Industry,Jiangsu Guotai Huasheng Industry,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0284,Jiangsu Sainty Eagle Co Ltd,Jiangsu Sainty Eagle Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0285,Jiangsu Teamwork Trading Co Ltd,Jiangsu Teamwork Trading Co Ltd,1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0286,Jiaxing Jiahua Import And Export,Jiaxing Jiahua Import And Export,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0287,Jiaxing Newbridge Imp & Exp Co,Jiaxing Newbridge Imp & Exp Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0288,Jm Brands Ltd Wsl,Jm Brands Ltd Wsl,1,2,1,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0289,Jm Fabrics Ltd,Jm Fabrics Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0290,Jo Y Jo Ltd,Jo Y Jo Ltd | Jo-Y-Jo Ltd,2,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0291,Joan Millar & Company Ltd,Joan Millar & Company Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0292,Joyeux Development Co Ltd,Joyeux Development Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0293,Jsk Fashions Ltd T/A Gemini,Jsk Fashions Ltd T/A Gemini,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0294,Jt Corporation,Jt Corporation,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0295,Jts Cushions Ltd,Jts Cushions Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0296,Ju Ju Ltd,Ju Ju Ltd,1,11,3,11,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0297,Jupiter Knitting Company,Jupiter Knitting Company,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0298,Just Mugs Ltd,Just Mugs Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0299,Jyoti Apparels,Jyoti Apparels,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0300,K And D Design Kraft Llp,K And D Design Kraft Llp,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0301,K Trend Footwear Ltd,K Trend Footwear Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0302,Kabadi Shankarsa Overseas,Kabadi Shankarsa Overseas,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0303,Kailai Fashion Accessories Co,Kailai Fashion Accessories Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0304,Kanika Exports,Kanika Exports,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0305,Kashion Industry Ltd,Kashion Industry Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0306,Kautilya Industries Pvt Ltd,Kautilya Industries Pvt Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0307,Kavis Fashions Pvt Ltd,Kavis Fashions Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0308,Kdc/One Swallowfield Ltd,Kdc/One Swallowfield Ltd,1,4,3,4,HOME,NXT_SUP_T1_2026,2026-02
+SUP0309,Kingtex Global Sourcing Co Ltd,Kingtex Global Sourcing Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0310,Kiwi Enterprises,Kiwi Enterprises,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0311,Klash (Private) Ltd,Klash (Private) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0312,Klash Pvt Ltd,Klash Pvt Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0313,Kljun International Doo,Kljun International Doo,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0314,Knit Asia Ltd,Knit Asia Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0315,Kor Insaat Teks(Corebuss),Kor Insaat Teks(Corebuss),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0316,Krishna Beads Industries,Krishna Beads Industries,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0317,Kucukcalik Tekstil San Ve Tic,Kucukcalik Tekstil San Ve Tic,1,2,2,2,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0318,Kut & Kraft,Kut & Kraft,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0319,Lauren Richards Design Ltd,Lauren Richards Design Ltd,1,8,2,8,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0320,Lee Tai Sang Swimwear Factory,Lee Tai Sang Swimwear Factory,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0321,Lee Tat Handbags Manufactory,Lee Tat Handbags Manufactory,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0322,Legend Swimwear Factory Ltd,Legend Swimwear Factory Ltd,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0323,Leiner Shoes Pvt Ltd,Leiner Shoes Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0324,Lf Centennial Pte Ltd,Lf Centennial Pte Ltd,1,19,2,19,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0325,Lf Fashion Ltd,Lf Fashion Ltd,1,14,3,14,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0326,Li Made Merchandise Co Ltd,Li Made Merchandise Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0327,Liberty Mills Ltd,Liberty Mills Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0328,Light Year Accessories Ltd,Light Year Accessories Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0329,Link Legend International Inc,Link Legend International Inc,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0330,Lloyd Textile Trading Ltd,Lloyd Textile Trading Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0331,Lmtrading Producao E Comerci,Lmtrading Producao E Comerci,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0332,Lola Garments Co Ltd,Lola Garments Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0333,Long Island Products (Fashion),Long Island Products (Fashion),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0334,Lota Ayakkabi Ve Deri SanTic,Lota Ayakkabi Ve Deri SanTic,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0335,Love Red Label Ltd,Love Red Label Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0336,Loxleys Print Ltd,Loxleys Print Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0337,Lucky Monday Ltd,Lucky Monday Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0338,Mabel And Eve Ltd,Mabel And Eve Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0339,Madan Trading Company Pvt Ltd,Madan Trading Company Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0340,Maf Clothing Private Ltd,Maf Clothing Private Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0341,Magnolia Martinique Clothing,Magnolia Martinique Clothing,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0342,Mahdco Tunisie,Mahdco Tunisie,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0343,Maliks Traders,Maliks Traders,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0344,Market Fit Holding Ltd,Market Fit Holding Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0345,Mascot Ltd Dmcc,Mascot Ltd Dmcc,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0346,Master Textile Mills Ltd,Master Textile Mills Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0347,Matrix Footwear Ltd,Matrix Footwear Ltd,1,5,3,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0348,Maxgreat Global Co Ltd,Maxgreat Global Co Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0349,Maxi Power Hk Ltd,Maxi Power Hk Ltd,1,2,1,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0350,Md Accessories Ltd,Md Accessories Ltd,1,5,1,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0351,Meicheng Holdings Ltd,Meicheng Holdings Ltd,1,2,1,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0352,Memo Fashions Ltd,Memo Fashions Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0353,Memo Fashions Ltd (Lp),Memo Fashions Ltd (Lp),1,4,2,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0354,Mercurius Slg Ltd,Mercurius Slg Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0355,Meridian Ltd,Meridian Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0356,Merry Glow International Co Ltd,Merry Glow International Co Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0357,Michelsons Uk Ltd,Michelsons Uk Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0358,Millennium Ladieswear Manufacturer,Millennium Ladieswear Manufacturer,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0359,Minhou Dacor Household Crafts,Minhou Dacor Household Crafts,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0360,Mirza (Uk) Ltd,Mirza (Uk) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0361,Mirza International Ltd,Mirza International Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0362,Misirli Uk Ltd,Misirli Uk Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0363,Miss Accessori Srl,Miss Accessori Srl,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0364,Mk Sons (Pvt) Ltd,Mk Sons (Pvt) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0365,Mobus Fabrics Ltd,Mobus Fabrics Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0366,Monro Ltd,Monro Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0367,More (Uk) Ltd,More (Uk) Ltd,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0368,Motives International Ltd,Motives International Ltd,1,8,2,8,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0369,Multitex Clothing Ltd,Multitex Clothing Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0370,Mundotextil Industrias Texteis,Mundotextil Industrias Texteis,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0371,Mustang Enterprises (Imp),Mustang Enterprises (Imp),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0372,Muvantex Nv Eur,Muvantex Nv Eur,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0373,Nanjing Oudan Garment Coltd,Nanjing Oudan Garment Coltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0374,Nantong Foremost Garments,Nantong Foremost Garments,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0375,Nara Tekstil San Ve Tic As,Nara Tekstil San Ve Tic As,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0376,Nath Brothers Exim Int Ltd,Nath Brothers Exim Int Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0377,Neo-Concept(Holdings)Co Ltd,Neo-Concept(Holdings)Co Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0378,Nesa Tekstil Sanayi Ve Ticaret,Nesa Tekstil Sanayi Ve Ticaret,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0379,New World Fashion Ltd,New World Fashion Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0380,Next Sourcing Ena Ltd Portugal,Next Sourcing Ena Ltd Portugal,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0381,Next Sourcing Ltd,Next Sourcing Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0382,Ningbo Feihong Stationery Co,Ningbo Feihong Stationery Co,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0383,Ningbo Freewill Imp & Ep Co L,Ningbo Freewill Imp & Ep Co L,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0384,Ningbo Jade Int Co Ltd,Ningbo Jade Int Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0385,Ningbo Justex Fashion Co Ltd,Ningbo Justex Fashion Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0386,Ningbo Mingna Garments Co (Lp),Ningbo Mingna Garments Co (Lp),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0387,Ningbo Syloon Imp & Exp Co Ltd,Ningbo Syloon Imp & Exp Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0388,Ningbo Top Wins Import & Exp,Ningbo Top Wins Import & Exp,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0389,Nisco Co Ltd,Nisco Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0390,Nishat Mills Ltd,Nishat Mills Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0391,Nitex Pte Ltd,Nitex Pte Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0392,Nj Screen Prints Ltd,Nj Screen Prints Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0393,Nm Zackriah Llp,Nm Zackriah Llp,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0394,No Mans Label Spain Ltd,No Mans Label Spain Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0395,Nocir Sa,Nocir Sa,1,15,4,15,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0396,Noor Garments,Noor Garments,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0397,Nordik Light Ltd,Nordik Light Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0398,Norlanka Manufacturing Ltd,Norlanka Manufacturing Ltd,1,10,1,10,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0399,Northern Apparel Ltd,Northern Apparel Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0400,Northstar Sourcing Llc,Northstar Sourcing Llc,1,10,2,10,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0401,Nova Leathers (Pvt) Ltd,Nova Leathers (Pvt) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0402,Novateks Uluslararasi Tekstil,Novateks Uluslararasi Tekstil,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0403,Novi Footwear International Co,Novi Footwear International Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0404,Nsl (Cambodia),Nsl (Cambodia),1,7,1,7,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0405,Nsl (Hong Kong),Nsl (Hong Kong) | Nsl Hong Kong,2,59,3,59,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0406,Nsl (India),Nsl (India) | Nsl India,2,29,1,29,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0407,Nsl (Myanmar),Nsl (Myanmar),1,9,1,9,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0408,Nsl (Pakistan),Nsl (Pakistan),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0409,Nsl (Shanghai),Nsl (Shanghai) | Nsl Shanghai,2,101,3,101,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0410,Nsl (Sri Lanka),Nsl (Sri Lanka) | Nsl Sri Lanka,2,70,4,70,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0411,Nsl (Turkey),Nsl (Turkey),1,20,2,20,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0412,Nsl Bangladesh,Nsl Bangladesh,1,64,1,64,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0413,Nsl Bangladesh_(Ense),Nsl Bangladesh_(Ense),1,27,1,27,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0414,Nsl Cambodia (Shanghai),Nsl Cambodia (Shanghai),1,16,1,16,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0415,Nsl India (Tirupur),Nsl India (Tirupur),1,18,1,18,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0416,Nsl Thang Long Shoes (Ense),Nsl Thang Long Shoes (Ense),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0417,Nsl Turkey Euro (Ense),Nsl Turkey Euro (Ense),1,5,1,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0418,Nsl Turkey_Gbp (Ense),Nsl Turkey_Gbp (Ense),1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0419,Nsl Vietnam,Nsl Vietnam,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0420,Nsl_Hk(Hunter Socks & Apparel),Nsl_Hk(Hunter Socks & Apparel),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0421,Ocean Link Textile Ltd,Ocean Link Textile Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0422,Oktava Ltd,Oktava Ltd,1,5,3,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0423,Opera Global Private Ltd,Opera Global Private Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0424,Orient Textile Mills Ltd,Orient Textile Mills Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0425,Origin Red Ltd,Origin Red Ltd,1,4,1,4,HOME,NXT_SUP_T1_2026,2026-02
+SUP0426,Oscar Apparels Ltd,Oscar Apparels Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0427,Outerstuff Emea Ltd,Outerstuff Emea Ltd,1,7,4,7,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0428,P&R (Hk) Holdings Ltd,P&R (Hk) Holdings Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0429,Padma Textiles Ltd,Padma Textiles Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0430,Pak Tak (Kwong Tai) Knitting,Pak Tak (Kwong Tai) Knitting,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0431,Palm Fibre (India) Private Ltd,Palm Fibre (India) Private Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0432,Panorama Exports Pvt Ltd,Panorama Exports Pvt Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0433,Paragon Clothing Ltd,Paragon Clothing Ltd,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0434,Park Corporation Ltd,Park Corporation Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0435,Patronus Apparels Private Ltd,Patronus Apparels Private Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0436,Peak Apparel Ltd,Peak Apparel Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0437,Pearl Apparels Inc,Pearl Apparels Inc,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0438,Pearl Apparels Pvt Ltd,Pearl Apparels Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0439,Pearl Global (Hk) Ltd,Pearl Global (Hk) Ltd,1,4,2,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0440,Pedro Almeida Sociedade Unipe,Pedro Almeida Sociedade Unipe,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0441,Peridot Clothing Ltd,Peridot Clothing Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0442,Phoenix Footwear Ltd,Phoenix Footwear Ltd,1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0443,Pilot Sourcing Ltd,Pilot Sourcing Ltd,1,5,1,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0444,Playvest S A,Playvest S A,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0445,Poetic Brands Ltd,Poetic Brands Ltd,1,16,5,16,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0446,Poeticgem Ltd,Poeticgem Ltd,1,6,2,6,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0447,Pointer Investment (Hong Kong),Pointer Investment (Hong Kong),1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0448,Pooja International,Pooja International,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0449,Poole Lighting Ltd,Poole Lighting Ltd,1,2,1,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0450,Poppys Knitwear Private Limited,Poppys Knitwear Private Limited,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0451,Poppys Knitwear Private Ltd,Poppys Knitwear Private Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0452,Portfolio 2008 Ltd,Portfolio 2008 Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0453,Precision Harvest Factory Ltd,Precision Harvest Factory Ltd,1,2,1,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0454,Prosperity Clothing Co Ltd,Prosperity Clothing Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0455,Prs Sourcing Ltd,Prs Sourcing Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0456,Punihani International,Punihani International,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0457,Pure Table Top Ltd,Pure Table Top Ltd,1,3,2,3,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0458,Pyramid Exports,Pyramid Exports,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0459,Q Collection Pte Ltd,Q Collection Pte Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0460,Q-Style Ltd T/A Aura,Q-Style Ltd T/A Aura,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0461,Qih Pte Ltd,Qih Pte Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0462,Qingdao Bloomtex Garment Co Ltd,Qingdao Bloomtex Garment Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0463,Qingdao Doing Imp And Exp Co,Qingdao Doing Imp And Exp Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0464,Qingdao Elerico I/E Co Ltd,Qingdao Elerico I/E Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0465,Qingdao Kingking,Qingdao Kingking,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0466,Qingdao Maosong Jewelry Colt,Qingdao Maosong Jewelry Colt,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0467,Qingdao New Honest Accessories,Qingdao New Honest Accessories,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0468,Qingdao Newalker Arts Internat,Qingdao Newalker Arts Internat,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0469,Quanzhou Bairui Crafts Co Ltd,Quanzhou Bairui Crafts Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0470,Quanzhou Jianwen Craft Co Ltd,Quanzhou Jianwen Craft Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0471,Quick Wonder Glasses Jiangxi,Quick Wonder Glasses Jiangxi,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0472,R & D Leather Ltd,R & D Leather Ltd,1,4,2,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0473,R Famous Ltd,R Famous Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0474,R G Jarrett Ltd,R G Jarrett Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0475,Raagam Exports,Raagam Exports,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0476,Radford Supplies Ltd,Radford Supplies Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0477,Radium Creation Ltd,Radium Creation Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0478,Raj Overseas,Raj Overseas,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0479,Rajby Industries (Private) Ltd,Rajby Industries (Private) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0480,Randa Accessories Uk Ltd,Randa Accessories Uk Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0481,Rapsodi Dekor Sanayi Anonim Si,Rapsodi Dekor Sanayi Anonim Si,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0482,Rd Leather Ltd,Rd Leather Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0483,Reach Well (Hong Kong) Textile,Reach Well (Hong Kong) Textile,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0484,Reatex Tekstil Dis Tic Ve San,Reatex Tekstil Dis Tic Ve San,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0485,Rebul Jcr Kozmetik Paz A S,Rebul Jcr Kozmetik Paz A S,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0486,Red Eyewear Ltd,Red Eyewear Ltd,1,5,1,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0487,Regal Jewelry Manufacture Co Ltd,Regal Jewelry Manufacture Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0488,Reggie Designs Ltd (Lp),Reggie Designs Ltd (Lp),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0489,Regina Miracle International,Regina Miracle International,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0490,Relyon Beds Ltd,Relyon Beds Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0491,Reva Sourcing,Reva Sourcing,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0492,Reyaz Chottani T/A Chottani In,Reyaz Chottani T/A Chottani In,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0493,Rhea Hk Ltd,Rhea Hk Ltd,1,4,2,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0494,Rhea Hk Ltd (Or),Rhea Hk Ltd (Or),1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0495,Riaans Ltd,Riaans Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0496,Rica Factory Direct Fze,Rica Factory Direct Fze,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0497,Rich Life (Rl) Enterprise Ltd,Rich Life (Rl) Enterprise Ltd,1,8,1,8,HOME,NXT_SUP_T1_2026,2026-02
+SUP0498,Richa Global Exports Pvt Ltd,Richa Global Exports Pvt Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0499,Richland (Liao Ning) Intl Co,Richland (Liao Ning) Intl Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0500,Riverland International Group,Riverland International Group,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0501,Rj Binnie Ltd,Rj Binnie Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0502,Rl Import Ltd,Rl Import Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0503,Rong Rui Garment Bd Ltd,Rong Rui Garment Bd Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0504,Rothley Ltd,Rothley Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0505,Roy Lowe & Sons Ltd,Roy Lowe & Sons Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0506,Royal Classic Mills Pvt Ltd,Royal Classic Mills Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0507,Royce Enterprise Co Ltd,Royce Enterprise Co Ltd,1,2,2,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0508,Ruee Appliances Co Ltd,Ruee Appliances Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0509,Sadaqat Ltd,Sadaqat Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0510,Sahu Exports Pvt Ltd (Pr),Sahu Exports Pvt Ltd (Pr),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0511,Sampling International Ent Ltd,Sampling International Ent Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0512,San International Pvt Ltd,San International Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0513,Santas Factory International,Santas Factory International,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0514,Saturn Fashion International Co,Saturn Fashion International Co,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0515,Sbs Tekstil San Ve Tic As,Sbs Tekstil San Ve Tic As,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0516,Searchlight Electric Ltd,Searchlight Electric Ltd,1,2,1,2,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0517,Sebnini Trading Ltd,Sebnini Trading Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0518,Senza Group Ltd,Senza Group Ltd,1,10,1,10,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0519,Serholt International Ltd,Serholt International Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0520,Shalimar Tanning Company,Shalimar Tanning Company,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0521,Shang Hai Newkeep Ltd Jl,Shang Hai Newkeep Ltd Jl,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0522,Shanghai Jianglong Imp And Exp,Shanghai Jianglong Imp And Exp,1,4,2,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0523,Shanghai Sansi International,Shanghai Sansi International,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0524,Shanghai Startex Industry Co,Shanghai Startex Industry Co,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0525,Shanghai Sunwin Industry,Shanghai Sunwin Industry,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0526,Shanghai Sunwin Industry Group,Shanghai Sunwin Industry Group,1,5,1,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0527,Shani Ltd,Shani Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0528,Shanxi Dahua Glass Ind Co Ltd,Shanxi Dahua Glass Ind Co Ltd,1,2,1,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0529,Shaoxing Intai Garment Co Ltd,Shaoxing Intai Garment Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0530,Shaw Spencer Hometrading Ltd,Shaw Spencer Hometrading Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0531,Shengya Electrical Co Ltd,Shengya Electrical Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0532,Shengzhou Sunlong Garments Co,Shengzhou Sunlong Garments Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0533,Shenzhen Fuhuaxing Garment Co,Shenzhen Fuhuaxing Garment Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0534,Shenzhen Mingsenxing Toy Gift,Shenzhen Mingsenxing Toy Gift,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0535,Shine Source Footwear Co Ltd,Shine Source Footwear Co Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0536,Shingora Textiles Pvt Ltd,Shingora Textiles Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0537,Shoenco Ltd,Shoenco Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0538,Shot Clothing Ltd,Shot Clothing Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0539,Signet Garments Private Ltd,Signet Garments Private Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0540,Silk Route Sourcing Ltd,Silk Route Sourcing Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0541,Silva E Sousa Irmaos Lda,Silva E Sousa Irmaos Lda,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0542,Simple Approach Ltd,Simple Approach Ltd,1,5,3,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0543,Singtex Pte Ltd,Singtex Pte Ltd,1,5,2,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0544,Sinomart International Ltd,Sinomart International Ltd,1,3,1,3,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0545,Sinopartner Commerce (Jiaxing),Sinopartner Commerce (Jiaxing),1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0546,Sinoproud Import & Export Corp,Sinoproud Import & Export Corp,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0547,Sinoproud Import Export Corp,Sinoproud Import Export Corp,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0548,Smallworld Accessories Ltd,Smallworld Accessories Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0549,Smart Shirts Ltd,Smart Shirts Ltd,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0550,Soho Shoes Ltd,Soho Shoes Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0551,Sole Provider Footwear Ltd,Sole Provider Footwear Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0552,Somerbond Ltd,Somerbond Ltd,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0553,Sonu Exim Private Ltd,Sonu Exim Private Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0554,Soorty Enterprises Pvt Ltd,Soorty Enterprises Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0555,Source Watches Ltd,Source Watches Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0556,South Enterprises Ltd,South Enterprises Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0557,Spring Near East Fzco,Spring Near East Fzco,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0558,Sreekumaar Texind Corporation,Sreekumaar Texind Corporation,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0559,Srg Apparel Plc Usd,Srg Apparel Plc Usd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0560,Srg Apparels Pvt Ltd,Srg Apparels Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0561,Sss Fashions Ltd,Sss Fashions Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0562,St Future International Limited,St Future International Limited,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0563,Stage Design Studio S L,Stage Design Studio S L,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0564,Stalwart Homestyles,Stalwart Homestyles,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0565,Star Sourcing Llc Fz,Star Sourcing Llc Fz,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0566,Startex Industry,Startex Industry,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0567,Status International (Uk) Limited,Status International (Uk) Limited,1,2,1,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0568,Sterling Styles Ltd,Sterling Styles Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0569,Stop Start Clothing Ltd,Stop Start Clothing Ltd,1,3,2,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0570,Strawberry Studio Exports Pvt,Strawberry Studio Exports Pvt,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0571,Studio One Ltd,Studio One Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0572,Style Arts And Craft Colimit,Style Arts And Craft Colimit,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0573,Styllent Global Pte Ltd,Styllent Global Pte Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0574,Sumec Textile & Light Industry,Sumec Textile & Light Industry,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0575,Sumoda Tekstil Ith Ihr San Ve,Sumoda Tekstil Ith Ihr San Ve,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0576,Sun City,Sun City,1,4,4,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0577,Sun Rise Hometextile Co Ltd,Sun Rise Hometextile Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0578,Sun Tekstil Sanayi Ve Tic As,Sun Tekstil Sanayi Ve Tic As,1,6,1,6,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0579,Sunflower International Tradin,Sunflower International Tradin,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0580,Sunny Pioneer Limited,Sunny Pioneer Limited,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0581,Sunvim Group Co Ltd,Sunvim Group Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0582,Suxing Garment (Hong Kong) Co,Suxing Garment (Hong Kong) Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0583,Suzhou H&H Textile Co Ltd,Suzhou H&H Textile Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0584,Swift Merchandise,Swift Merchandise,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0585,Sylvia Jeffery Ltd,Sylvia Jeffery Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0586,T & A Footwear Ltd,T & A Footwear Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0587,Talentex International Ltd,Talentex International Ltd,1,2,2,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0588,Tam Tam Tekstil Pazarlama Ve D,Tam Tam Tekstil Pazarlama Ve D,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0589,Tdp Textiles Ltd,Tdp Textiles Ltd,1,5,2,5,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0590,Team Manufacturing Company Ltd,Team Manufacturing Company Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0591,Tej Shoe Tech,Tej Shoe Tech,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0592,Teng Jin Limited Wsl,Teng Jin Limited Wsl,1,4,2,4,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0593,Teng Jin Ltd,Teng Jin Ltd,1,3,1,3,HOME,NXT_SUP_T1_2026,2026-02
+SUP0594,Tex Stitch Concept Ltd,Tex Stitch Concept Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0595,The 1922 Clothing Company Ltd,The 1922 Clothing Company Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0596,The Blue Jar (Guangzhou) Ltd,The Blue Jar (Guangzhou) Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0597,The Crescent Textile Mills Ltd,The Crescent Textile Mills Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0598,The Design Barn Ltd,The Design Barn Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0599,The Downland Bedding Company Ltd,The Downland Bedding Company Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0600,The Fine Bedding Company Ltd,The Fine Bedding Company Ltd,1,3,2,3,HOME,NXT_SUP_T1_2026,2026-02
+SUP0601,The Lighting Design Limited,The Lighting Design Limited,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0602,The Lighting Design Ltd,The Lighting Design Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0603,The T Shirt Guy Ltd,The T Shirt Guy Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0604,The Trade Aid Company,The Trade Aid Company,1,24,2,24,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0605,Three Sixty Fashions Ltd,Three Sixty Fashions Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0606,Timex Garments Pvt Ltd,Timex Garments Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0607,Tonglu Full-Well Imp & Exp Ltd,Tonglu Full-Well Imp & Exp Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0608,Toto London Ltd,Toto London Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0609,Trademark Textiles,Trademark Textiles,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0610,Transworld Shoes Pvt Ltd,Transworld Shoes Pvt Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0611,Trendex Sourcing Private Ltd,Trendex Sourcing Private Ltd,1,13,1,13,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0612,Trident Ltd,Trident Ltd,1,2,1,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0613,True Alliance International Ltd,True Alliance International Ltd,1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0614,Trust Knitwear Industries Ltd,Trust Knitwear Industries Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0615,Tudorknight Ltd,Tudorknight Ltd,1,9,3,9,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0616,Tuk Tuk Exports,Tuk Tuk Exports,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0617,Turkmenkardesler Gidatekstil,Turkmenkardesler Gidatekstil,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0618,Twf International Ltd,Twf International Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0619,Uab Baldai Jums,Uab Baldai Jums,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0620,Udare Ltd,Udare Ltd,1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0621,Udare Ltd (Magnum Clothing),Udare Ltd (Magnum Clothing),1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0622,Ultima Sa Rue Des Draizes,Ultima Sa Rue Des Draizes,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0623,Union Supply Co Ltd,Union Supply Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0624,Unique Furniture,Unique Furniture,1,6,2,6,HOME,NXT_SUP_T1_2026,2026-02
+SUP0625,Unitedtex Ltd,Unitedtex Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0626,Universal Source Ltd,Universal Source Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0627,Us Apparel And Textiles (Pvt) Ltd,Us Apparel And Textiles (Pvt) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0628,Valor Fashions Ltd,Valor Fashions Ltd,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0629,Vangoo (Hk) Ltd,Vangoo (Hk) Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0630,Vietnam Housewares Corporation,Vietnam Housewares Corporation,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0631,Visigma Apparel Group Fze,Visigma Apparel Group Fze,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0632,Vns Accessories India,Vns Accessories India,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0633,Vogue Sourcing Ltd,Vogue Sourcing Ltd,1,91,8,91,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0634,Vogue Sourcing Services,Vogue Sourcing Services,1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0635,Volume Clothing Ltd,Volume Clothing Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0636,W Fashion Accessories Co Ltd,W Fashion Accessories Co Ltd,1,5,1,5,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0637,Walk This Way Footwear Accessories,Walk This Way Footwear Accessories,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0638,Wdkx Ltd,Wdkx Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0639,Weihai Bettex International,Weihai Bettex International,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0640,Weihai Kaihua Import & Export,Weihai Kaihua Import & Export,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0641,Weihai Textile Group Import & Export,Weihai Textile Group Import & Export,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0642,Weinan Hi-Tech District Minghu,Weinan Hi-Tech District Minghu,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0643,Wells Lighting Hardware Lamp,Wells Lighting Hardware Lamp,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0644,Wenzhou Lanhey Imp & Exp Co Ltd,Wenzhou Lanhey Imp & Exp Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0645,Wenzhou Vision International Ltd,Wenzhou Vision International Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0646,Wideway Development Group Co,Wideway Development Group Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0647,William Lamb Group Ltd,William Lamb Group Ltd,1,21,3,21,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0648,Win (India) Exports,Win (India) Exports,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0649,Win Goods Houseware Ltd,Win Goods Houseware Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0650,Windeson Trademart Pvt Ltd,Windeson Trademart Pvt Ltd,1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0651,Wing See Co Ltd,Wing See Co Ltd,1,2,1,2,APPAREL | HOME,NXT_SUP_T1_2026,2026-02
+SUP0652,Wintech Production Group Sp Z,Wintech Production Group Sp Z,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0653,Winwing Co Ltd (Se),Winwing Co Ltd (Se),1,3,1,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0654,Wonder Pacific International,Wonder Pacific International,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0655,Wong Jewelry Co Ltd,Wong Jewelry Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0656,Wuxi Housetex Industries Co Ltd,Wuxi Housetex Industries Co Ltd,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0657,Xiamen Chic Wings Inn Co Ltd,Xiamen Chic Wings Inn Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0658,Xiamen Grit & Zest Apparel Co,Xiamen Grit & Zest Apparel Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0659,Xiamen Unibest Import Export Co,Xiamen Unibest Import Export Co,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0660,Ya Fa Knitting Factory Ltd,Ya Fa Knitting Factory Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0661,Yangzhou Golden Credit Garment,Yangzhou Golden Credit Garment,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0662,Yik Yue (Hk) Commercial Ltd,Yik Yue (Hk) Commercial Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0663,Yns Tekstil Ve Komfeksiyan San,Yns Tekstil Ve Komfeksiyan San,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0664,Yoho Arts & Crafts Co Ltd,Yoho Arts & Crafts Co Ltd,1,2,1,2,HOME,NXT_SUP_T1_2026,2026-02
+SUP0665,Zakaria Shahid Industries,Zakaria Shahid Industries,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0666,Zebra Mode Pte Ltd (Pr),Zebra Mode Pte Ltd (Pr),1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0667,Zhejiang C Stage Import And Export,Zhejiang C Stage Import And Export,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0668,Zhejiang Lizoom Import And Export,Zhejiang Lizoom Import And Export,1,2,1,2,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0669,Zhejiang Wadou Creative Art Co,Zhejiang Wadou Creative Art Co,1,1,1,1,HOME,NXT_SUP_T1_2026,2026-02
+SUP0670,Zhejiang Yude Fashion Co Ltd,Zhejiang Yude Fashion Co Ltd,1,1,1,1,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0671,Zorlu Dis Ticaret As,Zorlu Dis Ticaret As,1,3,3,3,APPAREL,NXT_SUP_T1_2026,2026-02
+SUP0672,Zxy International Fzco,Zxy International Fzco,1,4,1,4,APPAREL,NXT_SUP_T1_2026,2026-02
