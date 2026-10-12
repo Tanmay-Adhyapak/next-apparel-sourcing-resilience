@@ -80,3 +80,11 @@ Site counts, UK trade shares and scenario allocations describe different populat
 Myanmar remains excluded under D008/D020. The 11 “site not audited” and five “can't find on SC” annotations are **Pending evidence reviews**, not automatic failures. SC is undefined; unannotated sites are not automatically cleared.
 
 **WP004's placebo evidence undermined the causal identification strategy. The tariff effect remains unestimated by that design; it was not shown to be zero.** Tariff assumptions are archived analytical snapshots, not a live statement of current treatment.
+
+## Data attribution
+
+Contains public sector information licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+
+HMRC trade data is sourced from [UK Trade Info](https://www.uktradeinfo.com/) and is subject to Crown copyright. Calculations and scenario results are the project's own analysis and do not imply HMRC endorsement.
+
+NEXT plc disclosures are cited as sources. The repository includes extracted and transformed supplier-site data for analysis; the original NEXT reports are linked rather than included in full. Rights in third-party source material remain with their respective rights holders. The Open Government Licence notice applies to the relevant public sector information, not to the project as a whole.
